@@ -122,6 +122,9 @@ a.sidebar-link:hover {
 .sidebar-item {
   position: relative;
 }
+.sidebar-item > a:hover {
+  background: #183b61;
+}
 
 #sidebar:not(.expand) .sidebar-item .sidebar-dropdown {
   position: absolute;
