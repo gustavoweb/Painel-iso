@@ -81,7 +81,7 @@ body {
   animation: fadeIn 0.25s ease;
 }
 .icon-menu {
-  width: 30px;
+  width: 45px;
   height: auto;
 }
 @keyframes fadeIn {
